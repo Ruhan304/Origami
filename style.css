@@ -1,0 +1,33 @@
+h1{
+    text-decoration: underline;
+    font-weight: 900;
+    font-size: 45px;
+}
+
+p{
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+ol,li{
+font-size: 20px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+  transition:transform 0.25s;  
+  border: 2.5px solid;
+  border-color: yellow;
+}
+
+img:hover{
+transform: scale(1.275)
+}
+
+body{
+  background-image: url("https://wallpaperaccess.com/full/1567666.png");
+  color: white;
+  text-transform: uppercase;
+}
+
